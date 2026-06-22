@@ -11,14 +11,14 @@ hero:
       text: Character Creation
       link: /character-creation
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Skill Checks
+      link: /skill-checks
 
 features:
   - title: No Character Sheets
-    details: Let the dice speak for themselfs
+    details: dice! dice! dice! dice!
   - title: Fully Extensible
-    details: Run ANY setting in a mechanically meaningful way
+    details: any setting anywhere
   - title: Open Source
     details: By game enthusiastes FOR game enthusiastes
 ---

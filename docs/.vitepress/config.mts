@@ -2,21 +2,26 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Blank Dice Thing",
+  title: "Blank Dice TTRPG",
   description: "A simple rules light ttrpg",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+       { text: 'Character Creation', link: '/character-creation' },
+       { text: 'Skill Checks', link: '/skill-checks' },
+       { text: 'Harm and Death', link:'/character-harm'},
+       { text: 'Conflict and Combat', link: '/conflict'}
+ ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Glossery',
         items: [
           { text: 'Character Creation', link: '/character-creation' },
-          { text: 'Skill Checks', link: '/skill-checks' }
+          { text: 'Skill Checks', link: '/skill-checks' },
+          { text: 'Harm and Death', link:'/character-harm'},
+          { text: 'Conflict and Combat', link: '/conflict'}
         ]
       }
     ],

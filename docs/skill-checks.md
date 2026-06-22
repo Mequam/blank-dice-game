@@ -1,6 +1,10 @@
+---
+outline: deep
+---
+
 # Skill Checks
 
-Skill checks are the primary way to resolve all conflict in the KISS TTRPG.
+Skill checks are the atomic unit of conflict resolution in the KISS TTRPG.
 
 ## Difficulty Scale
 
@@ -15,9 +19,12 @@ Skill difficulty ranges from 1-5 with the following mapping:
 In KISS actions that are not risky should NOT have skill checks associated with them. Only
 roll skill checks when the result is interesting or unknown.
 
-> Game Masters:
-> Most of your checks should range from easy to hard. Save
-> impossible and legendary for very difficult encounters
+> Tip:
+>
+> Game Masters,
+>
+> We recommend making most of your checks range from easy to hard. Save
+> impossible and legendary for very difficult encounters.
 
 ## Check Resolution
 
@@ -31,4 +38,19 @@ its attributes and skills to the check if they are applicable.
 The wild face on the wild dice counts for a success in ANY skill of that character and any of the
 5 game attributes.
 
-If the wild face is rolled, that dice "exploads". It counts for a success in the attribute the player is rolling, and any skills that that player has. The dice is then re-rolled and any additional successes are added to the total count of success. A dice can exploade any number of times, so long as it keeps landing on the wild face.
+If the wild face is rolled, that dice "exploads". It counts for a success in the attribute the player is rolling, and any skills that that player has. The dice is then re-rolled and any additional successes are added to the total count of success. A dice can expload any number of times, so long as it keeps landing on the wild face.
+
+## Helping
+
+If a player wants to help another player complete a skill check, they can contribute one of their dice to the roll after
+describing what it is their character is doing to help. Any number of players may add dice to the check,
+but due to diminishing returns helping can add at most one success to a role.
+
+It must make narrative sense for a player to be able to help, and only skills and attributes applicable to the situation may
+be used (game masters choice).
+
+> TIP:
+>
+> While you could have the players helping roll their contributing dice (perfectly valid),
+> consider letting the "helped" player roll them to really get a tactile feel
+> of the help their getting.

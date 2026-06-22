@@ -1,3 +1,7 @@
+---
+outline: nested
+---
+
 # Character Creation
 
 What follows is a quick overview of character creation in the KISS dice TTRPG
@@ -51,7 +55,9 @@ Then for each skill draw a face design for that skill. Place one face for each s
 and in the A B C pattern on your character dice.
 
 
-Skill Examples Include:
+once your skills are drawn on the dice you are ready to go!
+
+### Skill Examples
 
 - air bending
 - fishing
@@ -60,6 +66,8 @@ Skill Examples Include:
 - pickpocketing
 - lighting
 
+
+
 > TIP:
 >
 > Skills can be more or less specific depending on the setting! For example
@@ -67,7 +75,6 @@ Skill Examples Include:
 > you might want to break it up into rapiears, longswords and shortswords. Talk to your game master about
 > what makes sense for your game.
 
-once your skills are drawn on the dice you are ready to go!
 
 ## Dice Layout And Stat Encoding Quick Ref
 
