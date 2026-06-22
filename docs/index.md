@@ -3,23 +3,22 @@
 layout: home
 
 hero:
-  name: "Blank Dice Thing"
+  name: "Blank Dice TTRPG"
   text: "A simple rules light ttrpg"
-  tagline: My great project tagline
+  tagline: KISS the dice game
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Character Creation
+      link: /character-creation
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: No Character Sheets
+    details: Let the dice speak for themselfs
+  - title: Fully Extensible
+    details: Run ANY setting in a mechanically meaningful way
+  - title: Open Source
+    details: By game enthusiastes FOR game enthusiastes
 ---
-
