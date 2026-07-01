@@ -9,8 +9,9 @@ export default defineConfig({
     nav: [
        { text: 'Home', link: '/' },
        { text: 'Character Creation', link: '/character-creation' },
+       { text: 'Character Progression', link: '/character-progression'},
        { text: 'Skill Checks', link: '/skill-checks' },
-       { text: 'Focus and Turn Order', link:'/turns'}
+       { text: 'Focus and Turn Order', link:'/turns'},
  ],
 
     sidebar: [
@@ -18,6 +19,7 @@ export default defineConfig({
         text: 'Glossary',
         items: [
           { text: 'Character Creation', link: '/character-creation' },
+          { text: 'Character Progression', link:'/character-progression'},
           { text: 'Skill Checks', link: '/skill-checks' },
           { text: 'Focus and Turn Order', link:'/turns'},
           { text: 'Harm and Death', link:'/character-harm'},

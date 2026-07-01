@@ -11,8 +11,12 @@ hero:
       text: Character Creation
       link: /character-creation
     - theme: alt
+      text: Character Progression
+      link: /character-progression
+    - theme: alt
       text: Skill Checks
       link: /skill-checks
+
 
 features:
   - title: No Character Sheets

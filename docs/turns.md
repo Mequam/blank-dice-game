@@ -17,7 +17,11 @@ Any time a player fails a skill check
 against the scene difficulty, the game master automatically gains focus. Similarly any time a game masters NPC's fail
 a check against the scene difficulty, the players gain focus on whoever they choose.
 
+[see skill checks for more details](/skill-checks)
+
 ## Time Dice
 
 When a time dice is rolled face up, and after the skill check that it was included in resolves, the game master
 gains focus and can act.
+
+[see the section on time dice for more details](/infiltration#time-dice-and-problems)

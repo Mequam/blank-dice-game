@@ -108,6 +108,7 @@ re-gain the ability to create organization dice.
 ### Use it Or Loose It
 
 When focus moves from the game master to the players, all organization dice leave the center of the table and reset.
+Use them or loose them!
 
 
 
