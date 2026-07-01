@@ -31,7 +31,7 @@ Organization dice represent the amount of order among the crew
 piloting the vessel and are required to make any action
 using the ship.
 
-see [Generate Ship Organization](#generate-ship-organization) for
+see [Generate Org Dice](#generate-org-dice) for
 how org dice are obtained in conflict.
 
 ### Layout
@@ -76,9 +76,9 @@ dice may be selected for this purpose. Each selected dice is
 then rolled alongside the player dice and the vehicle dice.
 All applicable faces are then added to the final success total.
 
-### Generate Ship Organization
+### Generate Org Dice
 
-On your turn (or when acting) you can choose to perform your duty on the vessel.
+Whenever you have focus you can choose to perform your duty on the vessel.
 
 You select how many organization points you want to generate and
 describe to the GM what you want to do.
@@ -96,6 +96,20 @@ special ability by installing sails.
 
 Note that creating ship organization does NOT generate
 an advantage in the conflict.
+
+#### Focus
+
+Failing a org dice generation roll does NOT give focus back to the game master, it does however
+move focus to another player at the table.
+
+Each player may only choose to generate organization dice one time, until the game master regains focus and all players
+re-gain the ability to create organization dice.
+
+### Use it Or Loose It
+
+When focus moves from the game master to the players, all organization dice leave the center of the table and reset.
+
+
 
 
 ## Game Master Difficulty Recommendations

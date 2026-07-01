@@ -21,10 +21,6 @@ only skills applicable to the problem may be used.
 
 During the skill sequence, each player may only use any given skill once.
 
-### Turn Order
-
-There are no turns in a skill sequence, any player who wants to go can decide to act.
-
 ### Failure
 
 Failing a skill sequence could mean any number of things depending on the game masters specifications, up to and including

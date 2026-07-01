@@ -7,25 +7,24 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+       { text: 'Home', link: '/' },
        { text: 'Character Creation', link: '/character-creation' },
        { text: 'Skill Checks', link: '/skill-checks' },
-       { text: 'Harm and Death', link:'/character-harm'},
-       { text: 'Conflict and Combat', link: '/conflict'},
-       { text: 'Infiltration', link: '/infiltration'}
+       { text: 'Focus and Turn Order', link:'/turns'}
  ],
 
     sidebar: [
       {
-        text: 'Glossery',
+        text: 'Glossary',
         items: [
           { text: 'Character Creation', link: '/character-creation' },
           { text: 'Skill Checks', link: '/skill-checks' },
+          { text: 'Focus and Turn Order', link:'/turns'},
           { text: 'Harm and Death', link:'/character-harm'},
           { text: 'Conflict and Combat', link: '/conflict'},
           { text: 'Skill Sequences',link : '/skill-sequence'},
           { text: 'Infiltration', link: '/infiltration'},
-          { text: 'Vehicle Conflict', link:'/vehicles'},
+          { text: 'Vehicle Encounters', link:'/vehicles'},
         ]
       }
     ],
