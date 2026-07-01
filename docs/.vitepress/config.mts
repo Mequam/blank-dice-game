@@ -22,7 +22,8 @@ export default defineConfig({
           { text: 'Character Creation', link: '/character-creation' },
           { text: 'Skill Checks', link: '/skill-checks' },
           { text: 'Harm and Death', link:'/character-harm'},
-          { text: 'Conflict and Combat', link: '/conflict'}
+          { text: 'Conflict and Combat', link: '/conflict'},
+          { text: 'Vehicle Conflict', link: '/vehicles'}
         ]
       }
     ],

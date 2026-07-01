@@ -96,7 +96,7 @@ special ability by installing sails.
 Note that creating ship organization does NOT generate
 an advantage in the conflict.
 
-#### Game Master Difficulty Recommendations
+### Game Master Difficulty Recommendations
 
 Since ship actions will consistently have additional dice added
 to them, they have a difficulty scale that is shifted from
