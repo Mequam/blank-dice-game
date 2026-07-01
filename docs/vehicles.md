@@ -5,8 +5,8 @@ outline: deep
 # Vehicle Encounters
 
 Many genres feature shared vehicles that often can be involved in
-conflict. These situations while sparse present a unique enough
-experience to merit their own suite of rules.
+conflict. These rules can be used to augment conflict, infiltrations, or skill sequences
+that involve a large group vehicle.
 
 ## Vehicle Dice
 
@@ -61,24 +61,24 @@ hits any cool down face, it may not be used again this encounter.
 > You absolutely can and should have component dice faces with unique
 > abilities! Be creative with the dice faces you give your players.
 
-## Vehicle Conflicts
-
-Ship conflict follows the same rules as [standard conflict](./conflict.md),
-but with two additions.
-
-### Vehicle Actions
+## Vehicle Rolls
 
 You can use the vehicle to act on the outside world, but only
 if there is sufficient organization to do so.
 
-All actions using the vehicle require that an organization dice
-be spent to perform those actions. Any number of organization
+Any time you would make a skill check, if it makes sense
+to be able to use the vehicle you are on to support that skill
+check, you may add that vehicles dice to your roll.
+
+All rolls using the vehicle require that an organization dice
+be spent to perform those rolls. Any number of organization
 dice may be selected for this purpose. Each selected dice is
-then rolled alongside the player dice and the vehicle dice. All applicable faces are then added to the result.
+then rolled alongside the player dice and the vehicle dice.
+All applicable faces are then added to the final success total.
 
 ### Generate Ship Organization
 
-On your turn you can choose to perform your duty on the vessel.
+On your turn (or when acting) you can choose to perform your duty on the vessel.
 
 You select how many organization points you want to generate and
 describe to the GM what you want to do.
@@ -97,7 +97,8 @@ special ability by installing sails.
 Note that creating ship organization does NOT generate
 an advantage in the conflict.
 
-### Game Master Difficulty Recommendations
+
+## Game Master Difficulty Recommendations
 
 Since ship actions will consistently have additional dice added
 to them, they have a difficulty scale that is shifted from

@@ -12,7 +12,6 @@ export default defineConfig({
        { text: 'Skill Checks', link: '/skill-checks' },
        { text: 'Harm and Death', link:'/character-harm'},
        { text: 'Conflict and Combat', link: '/conflict'},
-       { text: 'Vehicle Conflict', link:'/vehicles'},
        { text: 'Infiltration', link: '/infiltration'}
  ],
 
@@ -24,8 +23,9 @@ export default defineConfig({
           { text: 'Skill Checks', link: '/skill-checks' },
           { text: 'Harm and Death', link:'/character-harm'},
           { text: 'Conflict and Combat', link: '/conflict'},
-          { text: 'Vehicle Conflict', link: '/vehicles'},
-          { text: 'Infiltration', link: '/infiltration'}
+          { text: 'Skill Sequences',link : '/skill-sequence'},
+          { text: 'Infiltration', link: '/infiltration'},
+          { text: 'Vehicle Conflict', link:'/vehicles'},
         ]
       }
     ],
