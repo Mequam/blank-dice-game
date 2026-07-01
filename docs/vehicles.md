@@ -29,7 +29,7 @@ of their game.
 
 Organization dice represent the amount of order among the crew
 piloting the vessel and are required to make any action
-using the ships.
+using the ship.
 
 see [Generate Ship Organization](#generate-ship-organization) for
 how org dice are obtained in conflict.
@@ -46,24 +46,25 @@ These dice have 3 success faces on them.
 
 These dice represent extra functionality that your ship might have
 installed. In addition to the standard 3 success faces, they can
-have up to 3 additional skill faces that represent that components
+have up to 3 additional skill faces that represent a components
 unique ability it can contribute to conflicts.
 
-When rolled these component faces contribute an extra success
-only in rolls that can be justified to apply on.
+When rolled these component faces contribute a success
+only in rolls that they can be justified to apply on.
 
 If a component dice has 3 extra faces, one or more of them must
 be marked as a cool down face. Once a component dice
 hits any cool down face, it may not be used again this encounter.
 
-It is the right of the game master to add dice faces that operate
-with unique mechanics here, so long as the table is in agreement.
+> GM Tip:
+>
+> You absolutely can and should have component dice faces with unique
+> abilities! Be creative with the dice faces you give your players.
 
 ## Vehicle Conflicts
 
 Ship conflict follows the same rules as [standard conflict](./conflict.md),
 but with two additions.
-
 
 ### Vehicle Actions
 

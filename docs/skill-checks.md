@@ -19,6 +19,9 @@ Skill difficulty ranges from 1-5 with the following mapping:
 In KISS actions that are not risky should NOT have skill checks associated with them. Only
 roll skill checks when the result is interesting or unknown.
 
+Skill check difficulty is set for the given scene, all checks made in that scene are against that
+difficulty [but could be modified by easy or hard](#easy-and-hard).
+
 > Tip:
 >
 > Game Masters,
@@ -54,3 +57,11 @@ be used (game masters choice).
 > While you could have the players helping roll their contributing dice (perfectly valid),
 > consider letting the "helped" player roll them to really get a tactile feel
 > of the help their getting.
+
+## Easy and Hard
+
+Certain actions that players take might be particularly effective or ineffective (spraying a fire
+elemental with water for example, seems as though it should be PARTICULARLY good at stopping it).
+
+When this happens the game master can declare that this action is easy or hard. This adds or removes
+one from the difficulty of this check.

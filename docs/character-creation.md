@@ -54,6 +54,8 @@ Of the six character skills, the player chooses 3 in the A B C pattern to repres
 Then for each skill draw a face design for that skill. Place one face for each skill in the center of each non wild face on the wild dice,
 and in the A B C pattern on your character dice.
 
+Your characters wild dice then gets a different skill on each face
+that is NOT wild.
 
 once your skills are drawn on the dice you are ready to go!
 
@@ -79,3 +81,32 @@ once your skills are drawn on the dice you are ready to go!
 ## Dice Layout And Stat Encoding Quick Ref
 
 ![Stat Encoding](./assets/stat-encoding.jpg)
+
+## Game Master Dice
+
+Since the game master has to play many different characters, some that might not even exist before play, they have a special
+set of dice that can be used for many different characters.
+
+All of the above rules are followed, except instead of attributes or skills, the game master uses the following scale:
+
+- bad   : un mapped
+- ok    : C
+- good  : B
+- great : A
+
+You then create the ABC pattern, but map A B and C to their corresponding ability level.
+All stats and attributes that are selected in ABC get the bad rating. During play you use the level of symbol based on how
+good the character you are portraying that action would be.
+
+A fire elemental, for example, would probably have a great skill in firebending, and maybe be good at vitality. So you would use
+good for the stat and great for the skill when rolling those actions.
+
+That aside, a GM can still create character dice for NPC's they know are going to show up during the course of play. In fact
+it can be very fun when the "boss" dice get broken out and a big bad scary guy comes into the conflict, as always do what
+you think is fun at your table!
+
+> Tip:
+>
+> You can use any symbols you would like for both the attribute outline and skill faces,
+> we recommend using something more and more menacing to really let the players know they are in
+> for a bad time when their opponent is great at the thing their doing.

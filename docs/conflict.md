@@ -10,7 +10,7 @@ Conflict occurs when there are extended scenes with apposing forces where time t
 
 The goal of conflict is to gain three advantages.
 
-Successes are gained by making a skill check that must minimally beat a set scene difficulty. That skill check is then opposed by whichever forces (typically the defense) are competing with the players in that scene. If the defense fails to beat the attack, that counts as one advantage for the attackers group. Attack wins in a tie.
+Advantages are gained by making a skill check that must minimally beat a set scene difficulty. That skill check is then opposed by whichever forces (typically the defense) are competing with the players in that scene. If the defense fails to beat the attack, that counts as one advantage for the attackers group. Attack wins in a tie.
 
 This continues until the "attacker" fails to beat the scene difficulty, at which point the turn ends and the next character in the defense group becomes the attacker. In any single turn, both the attacker and defender can only use the same skill once.
 
